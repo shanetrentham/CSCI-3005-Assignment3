@@ -1,0 +1,6 @@
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/obj/x86/Debug/Trentham_Assign3.csprojAssemblyReference.cache
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/obj/x86/Debug/Trentham_Assign3.csproj.CoreCompileInputs.cache
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/bin/Debug/Trentham_Assign3.exe
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/bin/Debug/Trentham_Assign3.pdb
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/obj/x86/Debug/Trentham_Assign3.exe
+/Users/shane/Documents/CSCI 3005/CompletedAssignments/Trentham_Assign3/Trentham_Assign3/obj/x86/Debug/Trentham_Assign3.pdb

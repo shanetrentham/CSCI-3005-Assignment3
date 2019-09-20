@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5C6CCB11-7CD3-4BD7-8B5E-40EDEC986BF6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trentham_Assign3/GammaAlien.cs">
+    <Files>
+      <File FileName="Trentham_Assign3/Program.cs" Line="9" Column="1" />
+      <File FileName="Trentham_Assign3/Planet.cs" Line="66" Column="2" />
+      <File FileName="Trentham_Assign3/PlanetBuilder.cs" Line="35" Column="6" />
+      <File FileName="Trentham_Assign3/Spaceship.cs" Line="2" Column="34" />
+      <File FileName="Trentham_Assign3/Alien.cs" Line="88" Column="42" />
+      <File FileName="Trentham_Assign3/AlphaAlien.cs" Line="14" Column="10" />
+      <File FileName="Trentham_Assign3/BetaAlien.cs" Line="14" Column="10" />
+      <File FileName="Trentham_Assign3/GammaAlien.cs" Line="6" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trentham_Assign3" expanded="True">
+            <Node name="Trentham_Assign3" expanded="True">
+              <Node name="GammaAlien.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Trentham__Assign3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
